@@ -3,7 +3,7 @@ package com.eclettica;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication //Commento prova
+@SpringBootApplication
 public class SpringBootCrudUtenteApplication {
 
 	public static void main(String[] args) {
