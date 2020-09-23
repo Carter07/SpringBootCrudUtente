@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootCrudUtenteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootCrudUtenteApplication.class, args);
+		SpringApplication.run(SpringBootCrudUtenteApplication.class, args); //
 	}
 
 }
